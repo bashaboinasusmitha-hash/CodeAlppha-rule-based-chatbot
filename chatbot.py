@@ -1,4 +1,3 @@
-
 word=""
 while word!="bye":
     word=input("Enter the word u want to talk with chatbot:").lower()
